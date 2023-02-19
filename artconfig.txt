@@ -1,0 +1,294 @@
+AddSimpleModel(-1,19379, -2001, "object.dff", "uniquecarka.txd");
+
+AddSimpleModel(-1,19379, -2002, "object.dff", "poisonhud.txd");
+AddSimpleModel(-1,19379, -2003, "object.dff", "poisonarachud.txd");
+
+AddSimpleModel(-1,19379, -4005, "commanderR.dff", "commanderR.txd");
+
+// Polis Aksesuarlari AddCharModel(,  , "", ""); SABLON
+// Ozel Modeller
+AddCharModel(280, 20100, "babali.dff", "babali.txd");
+AddCharModel(280, 20101, "dytonlewis.dff", "dytonlewis.txd");
+AddCharModel(280, 25101, "caesar1.dff", "caesar1.txd");
+AddCharModel(280, 25102, "caesar2.dff", "caesar2.txd");
+AddCharModel(280, 25103, "caesar3.dff", "caesar3.txd");
+AddCharModel(280, 25104, "wraith.dff", "wraith.txd");
+
+// Polis erkek skinleri
+
+AddCharModel(280, 20109, "pd1.dff", "pd1.txd");
+AddCharModel(280, 20110, "pd2.dff", "pd2.txd");
+AddCharModel(280, 20111, "pd3.dff", "pd3.txd");
+AddCharModel(280, 20112, "pd4.dff", "pd4.txd");
+AddCharModel(280, 20113, "pd5.dff", "pd5.txd");
+AddCharModel(280, 20114, "pd6.dff", "pd6.txd");
+AddCharModel(280, 20115, "pd7.dff", "pd7.txd");
+AddCharModel(280, 20116, "pd8.dff", "pd8.txd");
+AddCharModel(280, 20201, "pd9.dff", "pd9.txd");
+AddCharModel(280, 20202, "pd10.dff", "pd10.txd");
+AddCharModel(280, 20203, "pd11.dff", "pd11.txd");
+AddCharModel(280, 20204, "pd12.dff", "pd12.txd");
+AddCharModel(280, 20205, "pd13.dff", "pd13.txd");
+AddCharModel(280, 20208, "pd16.dff", "pd16.txd");
+
+// Polis kiz skinleri
+
+AddCharModel(93, 20210, "pdkiz1.dff", "pdkiz1.txd");
+AddCharModel(93, 20211, "pdkiz2.dff", "pdkiz2.txd");
+AddCharModel(93, 20212, "pdkiz3.dff", "pdkiz3.txd");
+AddCharModel(93, 20213, "pdkiz4.dff", "pdkiz4.txd");
+AddCharModel(93, 20214, "pdkiz5.dff", "pdkiz5.txd");
+AddCharModel(93, 20215, "pdkiz6.dff", "pdkiz6.txd");
+AddCharModel(93, 20216, "pdkiz7.dff", "pdkiz7.txd");
+
+// dedektif skin
+AddCharModel(280, 20217, "det1erkek.dff", "det1erkek.txd");
+AddCharModel(280, 20218, "det2erkek.dff", "det2erkek.txd");
+AddCharModel(93, 20219, "det3kiz.dff", "det3kiz.txd");
+AddCharModel(280, 20220, "det4erkek.dff", "det4erkek.txd");
+AddCharModel(280, 20221, "det5erkek.dff", "det5erkek.txd");
+AddCharModel(280, 20222, "det6erkek.dff", "det6erkek.txd");
+AddCharModel(280, 20223, "det7erkek.dff", "det7erkek.txd");
+AddCharModel(280, 20224, "det8erkek.dff", "det8erkek.txd");
+
+// SWAT Skin
+AddCharModel(280, 20117, "swat_2.dff", "swat_2.txd");
+AddCharModel(280, 20118, "swat1.dff", "swat1.txd");
+AddCharModel(280, 20119, "swat2.dff", "swat2.txd");
+AddCharModel(280, 20120, "swat3.dff", "swat3.txd");
+AddCharModel(280, 20121, "swat4.dff", "swat4.txd");
+AddCharModel(280, 20122, "swat5.dff", "swat5.txd");
+AddCharModel(280, 20123, "swat6.dff", "swat6.txd");
+AddCharModel(280, 20124, "swat7.dff", "swat7.txd");
+AddCharModel(280, 20125, "swat10.dff", "swat10.txd");
+AddCharModel(280, 20126, "swat11.dff", "swat11.txd");
+AddCharModel(280, 20127, "swat12.dff", "swat12.txd");
+AddCharModel(280, 20128, "swat13.dff", "swat13.txd");
+
+// DEDEKTIF Skin
+AddCharModel(280, 29301, "dedektif2.dff", "dedektif2.txd");
+AddCharModel(280, 29302, "dedektif3.dff", "dedektif3.txd");
+
+// Sheriff Erkek Skinleri
+AddCharModel(280, 28200, "sheriff1.dff", "sheriff1.txd");
+AddCharModel(280, 28201, "sheriff2.dff", "sheriff2.txd");
+AddCharModel(280, 28202, "sheriff3.dff", "sheriff3.txd");
+AddCharModel(280, 28203, "sheriff4.dff", "sheriff4.txd");
+AddCharModel(280, 28204, "sheriff5.dff", "sheriff5.txd");
+AddCharModel(280, 28205, "sheriff6.dff", "sheriff6.txd");
+AddCharModel(280, 28206, "sheriff7.dff", "sheriff7.txd");
+AddCharModel(280, 28207, "sheriff8.dff", "sheriff8.txd");
+
+AddCharModel(93, 28214, "skadin1.dff", "skadin1.txd");
+
+// 28227 28228 bos
+
+// arayi doldurma sheriff ile kaynasti
+AddCharModel(280, 28218, "asker6.dff", "asker6.txd");
+AddCharModel(280, 28219, "asker7.dff", "asker7.txd");
+AddCharModel(280, 28220, "asker8.dff", "asker8.txd");
+AddCharModel(280, 28221, "asker9.dff", "asker9.txd");
+AddCharModel(280, 28222, "asker10.dff", "asker10.txd");
+
+// stabil priv
+AddCharModel(93, 28300, "stabilpriv.dff", "stabilpriv.txd");
+AddCharModel(93, 28301, "stabilpriv1.dff", "stabilpriv1.txd");
+AddCharModel(93, 28302, "stabilpriv2.dff", "stabilpriv2.txd");
+AddCharModel(93, 28303, "stabilpriv3.dff", "stabilpriv3.txd");
+AddCharModel(93, 28304, "stabilpriv4.dff", "stabilpriv4.txd");
+AddCharModel(93, 28305, "stabilpriv5.dff", "stabilpriv5.txd");
+AddCharModel(93, 28306, "stabilpriv6.dff", "stabilpriv6.txd");
+AddCharModel(93, 28307, "stabilpriv7.dff", "stabilpriv7.txd");
+AddCharModel(93, 28308, "stabilpriv8.dff", "stabilpriv8.txd");
+AddCharModel(93, 28309, "stabilpriv9.dff", "stabilpriv9.txd");
+AddCharModel(93, 28310, "stabilpriv10.dff", "stabilpriv10.txd");
+AddCharModel(93, 28311, "stabilpriv11.dff", "stabilpriv11.txd");
+AddCharModel(93, 28312, "stabilpriv12.dff", "stabilpriv12.txd");
+AddCharModel(93, 28313, "stabilpriv13.dff", "stabilpriv13.txd");
+
+// titan priv
+AddCharModel(280, 29800, "truth.dff", "truth.txd");
+
+// seckin priv
+
+AddCharModel(280, 21101, "bmyst.dff", "bmyst.txd");
+AddCharModel(280, 21102, "sofybu_1.dff", "sofybu_2.txd");
+AddCharModel(280, 21103, "somyst-1_2.dff", "somyst-1_2.txd");
+AddCharModel(280, 21108, "fam2.dff", "fam2.txd"); 
+AddCharModel(93, 21109, "hfyst.dff", "hfyst.txd"); 
+AddCharModel(280, 21110, "hodie.dff", "hodie.txd");
+AddCharModel(280, 21111, "joshua.dff", "joshua.txd");
+AddCharModel(93, 21112, "kendl.dff", "kendl.txd");
+AddCharModel(280, 21113, "kepka.dff", "kepka.txd");
+AddCharModel(280, 21114, "negr.dff", "negr.txd");
+AddCharModel(93, 21115, "nurgrl3.dff", "nurgrl3.txd");
+AddCharModel(93, 21116, "sbfystr.dff", "sbfystr.txd");
+AddCharModel(93, 21117, "wfyst.dff", "wfyst.txd");
+AddCharModel(93, 21118, "withoutjacket.dff", "withoutjacket.txd");
+AddCharModel(93, 21119, "crogrl3.dff", "crogrl3.txd");
+AddCharModel(93, 21120, "ofyst.dff", "ofyst.txd");
+AddCharModel(93, 21121, "sofybu.dff", "sofybu.txd");
+AddCharModel(280, 21122, "ss.dff", "ss.txd");
+AddCharModel(280, 21152, "cakal.dff", "cakal.txd");
+
+// BURAYA EKLEYEBILIRSINIZ 21153 BOS
+AddCharModel(280, 21154, "seckinteror.dff","seckinteror.txd");
+
+// soyun kari ciplak modeller
+AddCharModel(93, 21123, "ciplakkari1.dff", "ciplakkari1.txd");
+AddCharModel(93, 21124, "ciplakkari2.dff", "ciplakkari2.txd");
+AddCharModel(93, 21125, "ciplakkari3.dff", "ciplakkari3.txd");
+
+//binco kari skinleri
+
+AddCharModel(93, 21126, "kari1.dff", "kari1.txd");
+AddCharModel(93, 21127, "kari2.dff", "kari2.txd");
+AddCharModel(93, 21128, "kari3.dff", "kari3.txd");
+AddCharModel(93, 21129, "kari4.dff", "kari4.txd");
+AddCharModel(93, 21130, "kari5.dff", "kari5.txd");
+AddCharModel(93, 21131, "kari6.dff", "kari6.txd");
+AddCharModel(93, 21132, "kari7.dff", "kari7.txd");
+AddCharModel(93, 21133, "kari8.dff", "kari8.txd");
+AddCharModel(93, 21134, "kari9.dff", "kari9.txd");
+AddCharModel(93, 21155, "kari10.dff", "kari10.txd");
+AddCharModel(93, 21156, "kari11.dff", "kari11.txd");
+AddCharModel(93, 21157, "kari12.dff", "kari12.txd");
+AddCharModel(93, 21158, "kari13.dff", "kari13.txd");
+AddCharModel(93, 21168, "kari14.dff", "kari14.txd");
+AddCharModel(93, 21169, "kari15.dff", "kari15.txd");
+AddCharModel(93, 21170, "kari16.dff", "kari16.txd");
+AddCharModel(93, 21171, "kari17.dff", "kari17.txd");
+AddCharModel(93, 21178, "kari18.dff", "kari18.txd");
+AddCharModel(93, 21179, "kari19.dff", "kari19.txd");
+AddCharModel(93, 21180, "kari20.dff", "kari20.txd");
+AddCharModel(93, 21181, "kari21.dff", "kari21.txd");
+AddCharModel(93, 21182, "kari22.dff", "kari22.txd");
+AddCharModel(93, 21183, "kari23.dff", "kari23.txd");
+AddCharModel(93, 21184, "kari24.dff", "kari24.txd");
+AddCharModel(93, 21185, "kari25.dff", "kari25.txd");
+
+// binco erkek skinleri
+
+AddCharModel(280, 21134, "erkek1.dff", "erkek1.txd");
+AddCharModel(280, 21135, "erkek2.dff", "erkek2.txd");
+AddCharModel(280, 21136, "erkek3.dff", "erkek3.txd");
+AddCharModel(280, 21137, "erkek4.dff", "erkek4.txd");
+AddCharModel(280, 21138, "erkek5.dff", "erkek5.txd");
+AddCharModel(280, 21139, "erkek6.dff", "erkek6.txd");
+AddCharModel(280, 21140, "erkek7.dff", "erkek7.txd");
+AddCharModel(280, 21141, "erkek8.dff", "erkek8.txd");
+AddCharModel(280, 21142, "erkek9.dff", "erkek9.txd");
+AddCharModel(280, 21143, "erkek10.dff", "erkek10.txd");
+AddCharModel(280, 21144, "erkek11.dff", "erkek11.txd");
+AddCharModel(280, 21145, "erkek12.dff", "erkek12.txd");
+AddCharModel(280, 21146, "erkek13.dff", "erkek13.txd");
+AddCharModel(280, 21147, "erkek14.dff", "erkek14.txd");
+AddCharModel(280, 21148, "erkek15.dff", "erkek15.txd");
+AddCharModel(280, 21149, "erkek16.dff", "erkek16.txd");
+AddCharModel(280, 21150, "erkek17.dff", "erkek17.txd");
+AddCharModel(280, 21151, "erkek18.dff", "erkek18.txd");
+AddCharModel(280, 21159, "erkek19.dff", "erkek19.txd");
+AddCharModel(280, 21160, "erkek20.dff", "erkek20.txd");
+AddCharModel(280, 21161, "erkek21.dff", "erkek21.txd");
+AddCharModel(280, 21162, "erkek22.dff", "erkek22.txd");
+AddCharModel(280, 21163, "erkek23.dff", "erkek23.txd");
+AddCharModel(280, 21164, "erkek24.dff", "erkek24.txd");
+AddCharModel(280, 21165, "erkek25.dff", "erkek25.txd");
+AddCharModel(280, 21166, "erkek26.dff", "erkek26.txd");
+AddCharModel(280, 21167, "erkek27.dff", "erkek27.txd");
+AddCharModel(280, 21172, "erkek28.dff", "erkek28.txd");
+AddCharModel(280, 21173, "erkek29.dff", "erkek29.txd");
+AddCharModel(280, 21174, "erkek30.dff", "erkek30.txd");
+AddCharModel(280, 21175, "erkek31.dff", "erkek31.txd");
+AddCharModel(280, 21176, "erkek32.dff", "erkek32.txd");
+AddCharModel(280, 21177, "erkek33.dff", "erkek33.txd");
+AddCharModel(280, 21201, "erkek34.dff", "erkek34.txd");
+AddCharModel(280, 21202, "erkek35.dff", "erkek35.txd");
+AddCharModel(280, 21203, "erkek36.dff", "erkek36.txd");
+AddCharModel(280, 21204, "erkek37.dff", "erkek37.txd");
+AddCharModel(280, 21205, "erkek38.dff", "erkek38.txd");
+AddCharModel(280, 21206, "erkek39.dff", "erkek39.txd");
+AddCharModel(280, 21207, "erkek40.dff", "erkek40.txd");
+
+//vreath priv
+AddCharModel(280, 21106, "drill.dff", "drill.txd");
+
+//sivrii priv
+AddCharModel(93, 21107, "sivrii.dff", "sivrii.txd");
+AddCharModel(280, 28400, "triadb-1.dff", "triadb-1.txd");
+
+//sheriff skin
+AddCharModel(280, 28402, "sherifferkek1.dff", "sherifferkek1.txd");
+AddCharModel(280, 28403, "sherifferkek2.dff", "sherifferkek2.txd");
+AddCharModel(280, 28404, "sherifferkek3.dff", "sherifferkek3.txd");
+AddCharModel(280, 28405, "sherifferkek4.dff", "sherifferkek4.txd");
+AddCharModel(280, 28406, "sherifferkek5.dff", "sherifferkek5.txd");
+AddCharModel(280, 28407, "sherifferkek6.dff", "sherifferkek6.txd");
+AddCharModel(280, 28408, "sherifferkek7.dff", "sherifferkek7.txd");
+AddCharModel(280, 28410, "sherifferkek9.dff", "sherifferkek9.txd");
+AddCharModel(280, 28411, "sherifferkek10.dff", "sherifferkek10.txd");
+AddCharModel(280, 28413, "sherifferkek11.dff", "sherifferkek11.txd");
+AddCharModel(280, 28423, "sherifferkek12.dff", "sherifferkek12.txd");
+AddCharModel(280, 28425, "sherifferkek13.dff", "sherifferkek13.txd");
+AddCharModel(280, 28426, "sherifferkek14.dff", "sherifferkek14.txd");
+
+AddCharModel(93, 28412, "sheriffkiz1.dff", "sheriffkiz1.txd");
+AddCharModel(93, 28414, "sheriffkiz3.dff", "sheriffkiz3.txd"); 
+AddCharModel(93, 28416, "sheriffkiz5.dff", "sheriffkiz5.txd");
+AddCharModel(93, 28417, "sheriffkiz6.dff", "sheriffkiz6.txd");
+AddCharModel(93, 28419, "sheriffkiz7.dff", "sheriffkiz7.txd");
+AddCharModel(93, 28420, "sheriffkiz8.dff", "sheriffkiz8.txd");
+AddCharModel(93, 28422, "sheriffkiz10.dff", "sheriffkiz10.txd");
+AddCharModel(93, 28424, "sheriffkiz12.dff", "sheriffkiz12.txd");
+AddCharModel(93, 28430, "sheriffkiz13.dff", "sheriffkiz13.txd");
+AddCharModel(93, 28431, "sheriffkiz14.dff", "sheriffkiz14.txd");
+AddCharModel(93, 28432, "sheriffkiz15.dff", "sheriffkiz15.txd");
+AddCharModel(93, 28433, "sheriffkiz16.dff", "sheriffkiz16.txd");
+
+//BUNDAN SONRA HER SKIN 25000 DAN ITIBAREN YAZILACAK SIRAYI BOZMAYIN
+
+//noel baba priv
+AddCharModel(280, 25001, "noelbaba.dff", "noelbaba.txd");
+
+//kreyshen priv
+AddCharModel(280, 25002, "ok.dff", "ok.txd");
+
+//hardal priv
+AddCharModel(280, 25003, "rrre.dff", "rrre.txd");
+
+//emre priv
+AddCharModel(280, 25004, "emreozel.dff", "emreozel.txd");
+// flyd
+AddCharModel(280, 25005, "Floyd_Elliot.dff", "Floyd_Elliot.txd");
+
+// hasanin ekledigi pdler
+// detects
+AddCharModel(280, 25006, "detec1.dff", "detec1.txd");
+AddCharModel(280, 25007, "lvpdpc.dff", "lvpdpc.txd");
+AddCharModel(280, 25008, "omyst.dff", "omyst.txd");
+// erkekpd
+AddCharModel(280, 25009, "baldiesgt.dff", "baldiesgt.txd");
+AddCharModel(280, 25012, "boot.dff", "boot.txd");
+AddCharModel(280, 25013, "fatsgt.dff", "fatsgt.txd");
+AddCharModel(280, 25014, "lapd1.dff", "lapd1.txd");
+// 25015 bos
+AddCharModel(280, 25016, "lapdpc.dff", "lapdpc.txd");
+AddCharModel(280, 25017, "motorofficer.dff", "motorofficer.txd");
+AddCharModel(280, 25018, "moustache.dff", "moustache.txd");
+
+// swats en alttaki kari
+AddCharModel(280, 25020, "swatb.dff", "swatb.txd");
+AddCharModel(93, 25021, "gungrl3.dff", "gungrl3.txd");
+// kadin
+AddCharModel(93, 25022, "femme.dff", "femme.txd");
+AddCharModel(93, 25023, "kadinpd.dff", "kadinpd.txd");
+
+// yarrak
+// sivri skin
+AddCharModel(280, 25026, "chmyst.dff", "chmyst.txd");
+// radeon skin
+AddCharModel(280, 25027, "radeon.dff", "radeon.txd");
+// thaskyn skin
+AddCharModel(280, 25028, "persn6.dff", "persn6.txd");
+//papaz tuna
+AddCharModel(280, 21177, "papaz.dff", "papaz.txd");
